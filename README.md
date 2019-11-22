@@ -1,5 +1,5 @@
 # WebCrawler
-## Esse repostitório tem por objeto armazenar códigos de aprendizagem em webscraping
+## Esse repostitório tem por objetivo armazenar códigos de aprendizagem em webscraping
 
 Nesse foram utilizadas as tecnologias abaixo
 * Python3.X
