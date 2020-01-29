@@ -85,7 +85,7 @@ python-http-client==3.1.0
 python-stdnum==1.9
 python3-openid==3.1.0
 pytz==2018.4
-PyYAML==3.13
+PyYAML==5.1
 qrcode==6.0
 requests==2.19.1
 requests-file==1.4.3
