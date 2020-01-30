@@ -20,7 +20,7 @@ class Google:
     def __init__(self, driver):
         self.driver = driver
         # self.url = 'http://google.com.br' # url a ser crawleada
-        self.url = 'https://meu.userede.com.br/' # url a ser crawleada
+        self.url = 'https://meu.xxxxx.com.br/' # url a ser crawleada
         self.user = 'user' # element name
         self.password = 'password' # element name
         # self.search_bar = 'q' # element name
@@ -70,6 +70,6 @@ google.navigate()
 
 # Buscandon
 # google.search('Live de python')
-google.login('caugustogarruda@gmail.com', '1234')
+google.login('xxxxxxxxx@gmail.com', 'xxxxx')
 
 # google.dataclass()
