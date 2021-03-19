@@ -36,7 +36,7 @@ django-sendgrid-v5==0.6.893
 django-storages==1.7.1
 django-tinymce==2.7.0
 django-tinymce4-lite==1.7.1
-djangorestframework==3.10.2
+djangorestframework==3.11.2
 dnspython==1.16.0
 docutils==0.15.2
 easy-thumbnails==2.5
